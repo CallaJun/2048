@@ -1,12 +1,5 @@
-hnplays2048
+calla2048
 ===========
-
-A "Twitch Plays Pokemon" version of 2048.
-
-* Live version: http://hnplays2048.herokuapp.com
-* API: http://hnplays2048.herokuapp.com/api
-* Tweeted by Gabriele Cirulli: https://twitter.com/gabrielecirulli/statuses/444183831097397248
-* Featured on the top of HN on March 19, 2014.
 
 ## Setup
 
